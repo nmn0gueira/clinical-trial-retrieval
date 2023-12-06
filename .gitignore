@@ -1,0 +1,14 @@
+clinicaltrials.gov-16_dec_2015.tgz
+dataset_balanced.csv
+dataset.csv
+doc_ids.bin
+doc_scores.csv
+embeddings.csv
+full_documents.bin
+indexes_list.bin
+indexes_results.bin
+judged_only.csv
+ranking.csv
+relevancy.csv
+test.csv
+train.csv
