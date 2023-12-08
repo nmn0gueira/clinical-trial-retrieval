@@ -12,3 +12,4 @@ ranking.csv
 relevancy.csv
 test.csv
 train.csv
+__pycache__
