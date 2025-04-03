@@ -28,11 +28,11 @@ The tokens visualized were the 10 tokens with the highest attention weights aver
 
 Visualizations included:
 - Scatter plot of the tokens in layer one against layer 12. Data is represented as a 2D scatter plot using PCA for dimensionality reduction.
-- Heatmap of the attention weights for the top 10 tokens in the last layer of BioBERT.
+- Heatmap of the attention weights for the top 10 tokens in the last layer.
 - Self-attention visualization of the top 10 tokens in a given layer/head.
 
 ## Download Data
-The clinical trials archive can be downloaded [here](https://drive.google.com/ilied).
+The clinical trials archive can be downloaded [here](https://drive.google.com/file/d/1NxJotBxAcjib8XXgz_hseSIQSNsdu4HX/view?usp=sharing).
 
 
 ## About
