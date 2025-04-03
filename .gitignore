@@ -14,3 +14,5 @@ test.csv
 train.csv
 __pycache__
 csv/dataset_without_embeddings.csv
+/.ipynb_checkpoints
+/.vscode
